@@ -9,7 +9,7 @@ This template demonstrates how to build a full-stack chatbot application using L
 ## Key Features
 
 - 🌐 **Single Deployment** - Host both your agent and UI in one LangGraph deployment
-- 🎨 **Modern UI** - Beautiful chat interface built with FastHTML and DaisyUI
+- 🎨 **Modern UI** - Beautiful chat interface built with FastHTML
 - 🔄 **React-Style Agent** - Intelligent chatbot using LangGraph's React agent pattern
 - 🛠️ **Easy Configuration** - Simple HTTP routing setup through `langgraph.json`
 - ⚡ **Fast Development** - Rapid prototyping with FastHTML's server-side components
